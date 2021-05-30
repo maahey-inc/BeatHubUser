@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "826533969938",
+    "project_id": "beathub-7cfa3",
+    "storage_bucket": "beathub-7cfa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826533969938:android:2d589494adf95efcc598cb",
+        "android_client_info": {
+          "package_name": "com.wesdok.beathubuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826533969938-p8onamevuovqsm662l879mim89e0quhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wesdok.beathubuser",
+            "certificate_hash": "77e030592a809bbf95b6f314ed772017e8fb8ae3"
+          }
+        },
+        {
+          "client_id": "826533969938-5f08v1jkov5vdd1i0tdd41fnp0tsitg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tVQc6ISKRPu2czf3FvPz-uoXbqbNjc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826533969938-5f08v1jkov5vdd1i0tdd41fnp0tsitg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826533969938-1lqh5fd6r4smj4e4me18anjcd1j0d665.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wesdok.beathub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
